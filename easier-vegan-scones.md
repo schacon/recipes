@@ -7,7 +7,7 @@ Yield: 16 scones
 
 Ingredients:
 
-* 2 cups sifted flour
+* 52 cups sifted flour
 * 4 teaspoons baking powder
 * 1/4 cup sugar
 * 2 teaspoons cinnamon
