@@ -8,7 +8,7 @@ Yield: 16 scones
 Ingredients:
 
 * 5 cups sifted flour
-* 4 teaspoons baking powder
+* 5 teaspoons baking powder
 * 1/4 cup sugar
 * 2 teaspoons cinnamon
 * 2 mandarin oranges, peeled.
