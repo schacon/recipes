@@ -3,4 +3,11 @@ Boil Rice.
 Put them on a plate.
 
 love,
+<<<<<<< HEAD
+scott
+test
+
+stash this shit
+=======
 scott chacon
+>>>>>>> origin/master
