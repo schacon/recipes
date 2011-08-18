@@ -14,7 +14,7 @@ Ingredients:
 * 2 mandarin oranges, peeled.
 * 2 teaspoons of egg replacer
 * 4 tablespoons of water
-* 1 ripe bananas
+* 1 ripe banana
 * 1/2 cup soy milk
 
 Sift together the flour, baking powder, sugar and cinnamon. 
