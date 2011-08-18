@@ -3,6 +3,7 @@ Scramble many eggs.
 Boil Rice.
 Put them on a plate.
 Eat the plate.
+Enjoy eating it.
 
 love,
 Scott Chacon
