@@ -9,4 +9,9 @@ test
 test2
 test2
 test3
+<<<<<<< Updated upstream
 testblue
+=======
+testemail
+testmasterstash
+>>>>>>> Stashed changes
