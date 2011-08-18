@@ -4,4 +4,11 @@ Put them on a plate.
 Eat the plate.
 
 love,
+<<<<<<< HEAD
+scott
+test
+
+stash this shit
+=======
 scott chacon
+>>>>>>> origin/master
