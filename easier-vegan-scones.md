@@ -7,14 +7,14 @@ Yield: 16 scones
 
 Ingredients:
 
-* 52 cups sifted flour
+* 9 cups sifted flour
 * 5 teaspoons baking powder
 * 1/4 cup sugar
 * 2 teaspoons cinnamon
 * 2 mandarin oranges, peeled.
 * 2 teaspoons of egg replacer
 * 4 tablespoons of water
-* 1 ripe bananas
+* 1 ripe banana
 * 1/2 cup soy milk
 
 Sift together the flour, baking powder, sugar and cinnamon. 
@@ -24,3 +24,5 @@ Add all liquids at once to flour mixture.
 Mix really well, batter will be moist. (These scones should not need to be kneaded)
 Spread spoonfuls on an ungreased cookie sheet. Bake in hot oven 460F. for 15 minutes, until golden brown.
 Let cool 10 minutes before enjoying piping hot!
+
+more dumb shit

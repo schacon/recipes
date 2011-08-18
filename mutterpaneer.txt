@@ -1,3 +1,9 @@
 3 packet of paneer
 1 packet of peas
+<<<<<<< HEAD
 chopped onions
+
+i hate this shit
+=======
+1 finely chopped onion
+>>>>>>> origin/master
