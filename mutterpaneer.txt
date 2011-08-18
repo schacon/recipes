@@ -1,5 +1,9 @@
 1 packet of paneer
 1 packet of peas
-1 finely chopped onion
-frozen carrots
+<<<<<<< HEAD
+chopped onions
 
+i hate this shit
+=======
+1 finely chopped onion
+>>>>>>> origin/master

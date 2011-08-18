@@ -7,7 +7,7 @@ Yield: 16 scones
 
 Ingredients:
 
-* 52 cups sifted flour
+* 9 cups sifted flour
 * 5 teaspoons baking powder
 * 1/4 cup sugar
 * 2 teaspoons cinnamon
@@ -24,3 +24,5 @@ Add all liquids at once to flour mixture.
 Mix really well, batter will be moist. (These scones should not need to be kneaded)
 Spread spoonfuls on an ungreased cookie sheet. Bake in hot oven 460F. for 15 minutes, until golden brown.
 Let cool 10 minutes before enjoying piping hot!
+
+more dumb shit
